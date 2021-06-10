@@ -1,0 +1,4 @@
+#Sun May 09 20:14:59 ALMT 2021
+base.0=D\:\\Flutter Deneme\\drum_machine\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
