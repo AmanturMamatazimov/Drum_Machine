@@ -2539,7 +2539,7 @@
       <change afterPath="$PROJECT_DIR$/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ios/Runner/Info.plist" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ios/Runner/main.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/generated_plugin_registrant.dart" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
